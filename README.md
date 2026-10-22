@@ -1,6 +1,6 @@
 # Hi, I'm Sparsh 👋
 
-First-year CSE student at LPU who likes building backend systems, and Director of LaxMUN Society.
+First-year CSE student at LPU who likes building backend systems,
 Currently looking for SDE internship opportunities.
 
 ## 🛠️ What I work with
