@@ -1,6 +1,9 @@
 # Hi, I'm Sparsh 👋
 
-First-year CSE student at LPU who enjoys building backend systems with Python.
+Backend developer in the making. I build APIs and the databases behind them with FastAPI and PostgreSQL, and I like writing down the reasoning behind every design decision.
+
+🌱 Currently learning JavaScript
+🎭 Off the keyboard: 3+ years of theatre, including a state-level win
 
 ## 🛠️ What I work with
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -11,8 +14,6 @@ First-year CSE student at LPU who enjoys building backend systems with Python.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-Currently learning: JavaScript
 
 ## 🚀 Projects
 
