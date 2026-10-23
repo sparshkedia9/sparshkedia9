@@ -1,6 +1,6 @@
 # Hi, I'm Sparsh 👋
 
-Backend developer in the making. I build APIs and the databases behind them with FastAPI and PostgreSQL, and I like writing down the reasoning behind every design decision.
+First-year CSE student at LPU who likes building backend systems, I build APIs and the databases behind them with FastAPI and PostgreSQL, and I like writing down the reasoning behind every design decision.
 
 🌱 Currently learning JavaScript
 🎭 Off the keyboard: 3+ years of theatre, including a state-level win
